@@ -1,2 +1,0 @@
-# UpdatingElectionMap
-Created with CodeSandbox
